@@ -1,10 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: blueviolet;
 }
 h3 {
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
