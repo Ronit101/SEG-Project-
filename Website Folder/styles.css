@@ -1,17 +1,17 @@
 body {
     background-color: lightblue;
 }
-h3 {
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-}
-
-p {
+h2 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 h4 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
