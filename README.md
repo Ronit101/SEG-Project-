@@ -4,7 +4,7 @@ The main idea for Buddies is to make it more convienent for students to manage t
 The name Buddies was formed based off two words (budget + studies).
 The slogan for Buddies is "Managing your wealth for our success".
 
-Team Members;
+Team Members
 
 Ronit Mehta - 300273998
 
