@@ -1,9 +1,10 @@
 body {
     background-color: gray;
 }
-h2 {
+h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 40px;
 }
 
 h4 {
