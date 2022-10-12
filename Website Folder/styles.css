@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: gray;
 }
 h2 {
     font-family: 'Times New Roman', Times, serif;
@@ -15,7 +15,6 @@ button {
     background-color: gold;
     border: none;
     color: black;
-    margin left: 1000px;
     padding: 8px 8px;
     text-align: center;
     text-decoration: none;
