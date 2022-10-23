@@ -9,7 +9,15 @@ body {
     
 }
 
-a {
+
+
+ul {
+    display: flex;
     text-decoration: none;
-    font-size: 1.3rem;
+    font-size: 1rem;
+    list-style-type: none;
+}
+
+a{
+    
 }
