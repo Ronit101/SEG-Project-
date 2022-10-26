@@ -60,3 +60,7 @@
 .navigation a li:hover {
     text-decoration: underline;
 }
+
+.ronit img{
+    border-radius: 50%;
+}
