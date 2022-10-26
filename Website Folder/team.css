@@ -61,7 +61,7 @@
     text-decoration: underline;
 }
 
-.ronit {
+.photos {
     display: inline-block;
     position: relative;
     width: 200px;
@@ -71,7 +71,12 @@
     float: right;
 }
 
-.ronit img {
+.photos ronit img {
+    width: auto;
+    height: 100%;
+}
+
+.photos seif img {
     width: auto;
     height: 100%;
 }
