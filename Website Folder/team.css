@@ -61,7 +61,22 @@
     text-decoration: underline;
 }
 
-.photos {
+.ronit {
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+}
+
+.ronit img {
+    width: auto;
+    height: 100%;
+}
+
+.seif{
     display: inline-block;
     position: relative;
     width: 200px;
@@ -70,13 +85,7 @@
     border-radius: 50%;
     float: right;
 }
-
-.photos ronit img {
-    width: auto;
-    height: 100%;
-}
-
-.photos seif img {
+.seif img {
     width: auto;
     height: 100%;
 }
