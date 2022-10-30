@@ -2,7 +2,7 @@
 Buddies is a financial planner for students in post secondary studies.
 The main idea for Buddies is to make it more convienent for students to manage their money at school. University is expensive, saving even a few dollars anyway you can is worth it.
 The name Buddies was formed based off two words (budget + studies).
-The slogan for Buddies is "Managing your wealth for our success".
+The slogan for Buddies is "Managing your wealth for your success".
 
 Team Members
 
