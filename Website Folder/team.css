@@ -3,7 +3,7 @@
     padding: 0;
     list-style: none;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif
 }
 body {
     background: #c8c9c7;
@@ -48,6 +48,8 @@ body {
     vertical-align: middle;
     height: 100%;
     font-weight: bold;
+    color: #c8c9c7;
+    font-size: 20px;
 }
 
 .container {
@@ -56,7 +58,7 @@ body {
 }
 
 .container h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif
 
 }
 .navigation a li:hover {
