@@ -1,0 +1,5 @@
+color scheme  : rgb(208, 215, 223) and rgb(154,156,206)
+font for content : Times New Roman
+font for NavBar : Undecided
+font for 
+
