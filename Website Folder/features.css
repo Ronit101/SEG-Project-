@@ -14,7 +14,6 @@ left: 0;
 right: 0;
 top: 5px;
 height: 90px;
-float: right;
 display: flex;
 align-items: center;
 box-shadow: 0 0 25px 0 black;
@@ -25,9 +24,12 @@ display: inline;
 }
 header li {
 margin: 20px;
+float: right;
+
 }
 header li a {
 color: white;
+float: right;
 text-decoration: none;
 }
 /*y*/
