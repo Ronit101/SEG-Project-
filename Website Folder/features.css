@@ -27,6 +27,9 @@ margin: 20px;
 align: right;
 
 }
+.nav {
+  align: right;
+}
 header li a {
 color: white;
 align: right;
