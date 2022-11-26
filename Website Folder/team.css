@@ -3,7 +3,8 @@
     padding: 0;
     list-style: none;
     text-decoration: none;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 body {
     background: #c8c9c7;
@@ -29,12 +30,12 @@ body {
     float: left;
 }
 
-.logo_container h1 {
+.logo_container a {
     color: white;
     height: 100%;
     display: table-cell;
     vertical-align: middle;
-    font-size: 32px;
+    font-size: 20px;
 }
 .navigation {
     float: right;
@@ -64,7 +65,8 @@ body {
 }
 
 .container h1{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(95, 107, 120);
 
 }
 .navigation a li:hover {
