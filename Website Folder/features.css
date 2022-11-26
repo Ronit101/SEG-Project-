@@ -24,12 +24,12 @@ display: inline;
 }
 header li {
 margin: 20px;
-float: right;
+align: right;
 
 }
 header li a {
 color: white;
-float: right;
+align: right;
 text-decoration: none;
 }
 /*y*/
