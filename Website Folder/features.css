@@ -16,7 +16,6 @@ top: 5px;
 height: 90px;
 display: flex;
 align-items: center;
-box-shadow: 0 0 25px 0 black;
 }
 /*bha*/
 header * {
