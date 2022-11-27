@@ -3,7 +3,7 @@ General color scheme
 Fonts
    Modern and professional fonts suited for projecting success
     for example, Sans Serif and Trebuchet MS
-    Left to individual webpages to prevent too much uniformity
+    Left to individual webpages to prevent monotony
 Navigation Bar
     navigation bar shall contain links to 4 webpages
       1.Homepage
@@ -12,7 +12,7 @@ Navigation Bar
       4.Team
      said order will be maintained
    Color of #313336 (or similar) shall be used as background for navigation bar
-   Links will not contain underlines ad shall only appear underlined when mouse is hovered over it
+   Links will not contain underlines and shall only appear underlined when mouse is hovered over it
 Javascript implementation will be left to individual webpages but at least a few elements of JS will be included
 Webpage format
   webpages will follow the general format given
