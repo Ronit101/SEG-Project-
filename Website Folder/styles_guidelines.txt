@@ -1,0 +1,23 @@
+General color scheme
+  grey with hints of violet and black
+Fonts
+   Modern and professional fonts suited for projecting success
+    for example, Sans Serif and Trebuchet MS
+    Left to individual webpages to prevent too much uniformity
+Navigation Bar
+    navigation bar shall contain links to 4 webpages
+      1.Homepage
+      2.Features
+      3.Pricing
+      4.Team
+     said order will be maintained
+   Color of #313336 (or similar) shall be used as background for navigation bar
+   Links will not contain underlines ad shall only appear underlined when mouse is hovered over it
+Javascript implementation will be left to individual webpages but at least a few elements of JS will be included
+Webpage format
+  webpages will follow the general format given
+    Navigation bar at the top according to aformentioned guidelines
+    Optional (brief description of page)
+    Boxes with content subdivided
+HomePage format
+  Homepage may deviate from given guideline to accomodate for login information
