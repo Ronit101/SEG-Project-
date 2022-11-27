@@ -72,6 +72,8 @@ text-align: right;
 }
 .navigation a:hover{
     text-decoration: underline;
+    color: #c8c9c7;
+    
 }
 .navigation a li{
     display: table-cell;
